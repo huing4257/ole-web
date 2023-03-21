@@ -1,0 +1,9 @@
+[submodule "ole-backend"]
+	path = ole-backend
+	url = https://gitlab.secoder.net/OutputLimitExceeded/ole-backend.git
+[submodule "ole-docs"]
+	path = ole-docs
+	url = https://gitlab.secoder.net/OutputLimitExceeded/ole-docs.git
+[submodule "ole-frontend"]
+	path = ole-frontend
+	url = https://gitlab.secoder.net/OutputLimitExceeded/ole-frontend.git
