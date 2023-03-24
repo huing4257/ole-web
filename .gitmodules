@@ -7,3 +7,6 @@
 [submodule "ole-frontend"]
 	path = ole-frontend
 	url = https://gitlab.secoder.net/OutputLimitExceeded/ole-frontend.git
+[submodule "ole-mysql"]
+	path = ole-mysql
+	url = https://gitlab.secoder.net/OutputLimitExceeded/ole-mysql.git
